@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
+
+.body{
+    background-color: #ffffff;
+}
+
+.text{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #afafaf;
+    height: 363px;
+    text-align: right;
+    margin-left: 35%;
+    margin-right: 7%;
+    margin-bottom: -10%;
+}
+.cmc{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: #D995D1;
+}
+
+.st{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    color: #dadada;
+}
+
+.pl{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    color: #afafaf;
+    text-align: justify;
+}
+.t{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;  
+    font-size: 32px;
+    color: #D995D1;
+    text-align: center;
+}
+
+.segfund{
+    height: 81%;
+    width: 71%;
+    background-color: #272727;
+    bottom: 0;
+    margin-bottom: 0%;
+    margin-left: 14.5%;
+    margin-right: 14.5%;
+    padding-top: 64px;
+    box-shadow: 0px 0px 50px rgba(39, 39, 39, 0.7);
+}
+
+.but{
+    border-radius: 15px;
+    background-color: #D995D1;
+    width: 231px;
+    height: 69px;
+    font-size: 24px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    border: none;
+    cursor: pointer;
+    margin: 7%;
+}
+
+.redes{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 14.5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.pad{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.inst{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.lin{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.git{
+    margin-left: 5px;
+    margin-right: 5px;
+}
